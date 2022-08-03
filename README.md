@@ -1,3 +1,13 @@
+![CI/CD](https://github.com/martinmcdermid/github-actions/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/MartinMcDermid/github-actions/branch/master/graph/badge.svg?token=JA60Q7BFPV)](https://codecov.io/gh/MartinMcDermid/github-actions)
+
+
+![](https://codecov.io/gh/MartinMcDermid/github-actions/branch/master/graphs/sunburst.svg?token=JA60Q7BFPV)
+![](https://codecov.io/gh/MartinMcDermid/github-actions/branch/master/graphs/tree.svg?token=JA60Q7BFPV)
+![](https://codecov.io/gh/MartinMcDermid/github-actions/branch/master/graphs/icicle.svg?token=JA60Q7BFPV)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
